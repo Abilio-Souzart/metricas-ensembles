@@ -1,0 +1,6 @@
+modelo,acurácia,precisão,recall,especificidade,F1,AUC,VP,VN,FP,FN
+Regressão logística,0.7433,0.8349,0.6067,0.88,0.7027,0.8016,91,132,18,59
+Árvore de decisão (prof. 5),0.7267,0.6932,0.8133,0.64,0.7485,0.7924,122,96,54,28
+Random Forest (200),0.7433,0.7296,0.7733,0.7133,0.7508,0.8403,116,107,43,34
+Gradient Boosting (200),0.77,0.7914,0.7333,0.8067,0.7612,0.8372,110,121,29,40
+Regressão logística com log (extensão),0.7633,0.7842,0.7267,0.8,0.7543,0.85,109,120,30,41

@@ -1,0 +1,13 @@
+,valor
+n treino,75.0
+n teste,25.0
+intercepto,2.2223
+inclinação (cm de comprimento por cm de largura),1.589
+MAE,0.3021
+RMSE,0.3805
+RMSE / MAE,1.2595
+R² teste,0.7399
+R² treino,0.6567
+RMSE prevendo a média do treino,0.7698
+maior erro absoluto,1.0407
+desvio padrão de petal_length (teste),0.7461

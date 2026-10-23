@@ -1,0 +1,6 @@
+modelo,AUC CV,erro padrão
+Regressão logística,0.7702,0.005
+Árvore de decisão (prof. 5),0.762,0.0064
+Random Forest (200),0.8113,0.006
+Gradient Boosting (200),0.8079,0.005
+Regressão logística com log (extensão),0.812,0.0045

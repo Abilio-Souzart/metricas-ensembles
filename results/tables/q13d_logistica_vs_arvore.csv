@@ -1,0 +1,4 @@
+,acurácia,precisão,recall,especificidade,F1,AUC,VP,VN,FP,FN
+"Logística (corte 0,5)",0.7111,0.7879,0.5778,0.8444,0.6667,0.7803,130.0,190.0,35.0,95.0
+"Árvore prof. 5 (corte 0,5)",0.7089,0.6958,0.7422,0.6756,0.7183,0.7621,167.0,152.0,73.0,58.0
+"Logística (corte 0.40, mesma especificidade da árvore)",0.7,0.6907,0.7244,0.6756,0.7072,0.7803,163.0,152.0,73.0,62.0
